@@ -1,3 +1,3 @@
-#I'm shit a git, yup.#
+#Git. What a cool thing#
 
-LOL
+Let's push this shiiiiit.
